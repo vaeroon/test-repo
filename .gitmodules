@@ -1,0 +1,3 @@
+[submodule "module4venus"]
+	path = module4venus
+	url = https://github.com/vaeroon/venus.js.git
